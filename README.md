@@ -91,7 +91,7 @@ Favorites Toggle & Persistence: Favorites can be toggled and persist via localSt
 Detail View: Modal renders mission details correctly.
 
 
-Deployed in Vercel : 
+Deployed in Vercel : https://space-xmission-git-master-prateeks-projects-a751c17f.vercel.app/
 
 GitHub Repository : https://github.com/prateek-1211/SpaceXmission.git
 
